@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from IPython.display import display
 
-data_df = pd.read_excel("C:\\Users\\drubi\\Documents\\Repositórios GitHub\\Exercicios-UAM\\Técnicas de Programação\\APS\\dadosaps.xlsx")
+data_df = pd.read_excel(file:///E:\Vitor\Desktop\Planilha%20APS.xlsx")
 
 def main():
     plt.figure(figsize=(10,6))
